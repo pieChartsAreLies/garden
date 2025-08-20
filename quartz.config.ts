@@ -23,25 +23,25 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#0f1419",        // Dark navy background
-          lightgray: "#1a1f29",    // Slightly lighter dark
+          light: "#2d2d2d",        // Dark grey background
+          lightgray: "#3a3a3a",    // Slightly lighter grey
           gray: "#8892a6",         // Medium gray
           darkgray: "#e8eaed",     // Light gray for text
           dark: "#ffffff",         // White text
-          secondary: "#00a693",    // Teal links (Miami Dolphins aqua)
-          tertiary: "#ff6900",     // Orange accents (Miami Dolphins orange)
-          highlight: "rgba(0, 166, 147, 0.15)",  // Teal highlight
+          secondary: "#00bfff",    // Aqua/light blue links
+          tertiary: "#ff6900",     // Orange accents
+          highlight: "rgba(0, 191, 255, 0.15)",  // Aqua highlight
           textHighlight: "rgba(255, 105, 0, 0.2)", // Orange text highlight
         },
         darkMode: {
-          light: "#0f1419",        // Same dark theme
-          lightgray: "#1a1f29",    
+          light: "#2d2d2d",        // Dark grey background
+          lightgray: "#3a3a3a",    
           gray: "#8892a6",         
           darkgray: "#e8eaed",     
           dark: "#ffffff",         
-          secondary: "#00a693",    // Teal links
+          secondary: "#00bfff",    // Aqua/light blue links
           tertiary: "#ff6900",     // Orange accents
-          highlight: "rgba(0, 166, 147, 0.15)",
+          highlight: "rgba(0, 191, 255, 0.15)",
           textHighlight: "rgba(255, 105, 0, 0.2)",
         },
       },
