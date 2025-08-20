@@ -36,6 +36,6 @@
 		* Interview focus... can you say it or will you lie and speak with confidence. 
 			* Value in faking it until you make it, but there's a line. 
 ---
-Mark Manson ([video](https://www.youtube.com/watch?v=411yMnGP5Og))Why you feel so stuck in life. 
+Why you feel so stuck in life. - Mark Manson ([video](https://www.youtube.com/watch?v=411yMnGP5Og))
 * Stage One: Copycat - Lots of people never leave it. We copy others, and at the end, we realize that we want to be our own person. Goal is to teach ourselves how to function in society. Adults help us to make decisions and take action for ourselves. Sometime we are punished for decisions. We get stuck in stage one mimicking others and trying to please everyone so we're not judged. Ideally, this ends at early adulthood. 
-* 
+* Stage Two: The Explorer - Learning what makes us different than the people around us. Understand where our limits. Classic young person. Full of cringe and questionable life choices. Goal is a process of self-discover. We try things. Some go well. Som of them don't. The goal is to stick with what goes well and drop the ones we don't care about. We're trying to find out values. Living in alignment of values brings good stuff. ([Deep-Dive into Values](https://www.youtube.com/watch?v=uvXdMPNhp9M&pp=0gcJCR0AztywvtLA)) It's okay to be bad at things. Learning what you aren't good at is 
