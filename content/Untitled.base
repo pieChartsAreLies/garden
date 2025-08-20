@@ -1,0 +1,20 @@
+views:
+  - type: cards
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - tags
+    cardSize: 280
+  - type: cards
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - tags
+  - type: cards
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - tags
