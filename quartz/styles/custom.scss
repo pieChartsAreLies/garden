@@ -1,5 +1,4 @@
 /* Professional Custom Styles for Michael Gerstl */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 :root {
   --primary-color: #2563eb;
@@ -9,7 +8,7 @@
   --text-muted: #9ca3af;
   --border-light: #e5e7eb;
   --bg-subtle: #f9fafb;
-  --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-primary: var(--bodyFont);
   --space-xs: 0.25rem;
   --space-sm: 0.5rem;
   --space-md: 1rem;
