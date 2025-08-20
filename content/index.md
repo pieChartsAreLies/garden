@@ -1,14 +1,17 @@
 ---
-title: Welcome to My Digital Garden
+title: Michael Gerstl
 publish: "true"
 ---
-# Welcome to My Digital Garden
+# Michael Gerstl
 
-This is where I cultivate my thoughts and ideas. 
+Professional insights on technology, business, and innovation.
 
-## Recent Notes
-- [[My First Note]]
-- More coming soon...
+## Recent Articles
 
-## About This Garden
-This digital garden is built with Obsidian and Quartz, hosted on Cloudflare Pages.
+- [[Digital Transformation in Modern Business]]
+- [[Leadership in Technology Organizations]]
+- [[Building Scalable Systems]]
+
+## About
+
+I write about the intersection of technology and business strategy, drawing from experience in enterprise software development and organizational leadership.
