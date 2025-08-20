@@ -19,3 +19,14 @@
 * "Learning more is just a smart person's way to procrastonate."
 * "Focus on doing one or two things extremely well, do them in one place very consistently with a small group of people over a long period of time." - Antithetical to how we operate. 
 * "Removing distractions gives you the space to decide wgat yoiu care about. " stranded on desert island, with unlimited resources, what would you be doing? 
+* Healthy relationship with failure - > Failure doesn't mean falling to the bottom, it's growth.
+	* Character is Rebounding when things don't
+---
+* Putting yourself out there
+	* Bone Apple Tea - swearing off social media. 
+	* Stepping into a leadership role
+	* Leading teams that you don't have exposure to the subject matter
+	* Confidence in yourself
+	* Humility that you don't know everything - the power of saying "I don't know"
+		* Interview focus... can you say it or will you lie and speak with confidence. 
+			* Value in faking it until you make it, but there's a line. 
