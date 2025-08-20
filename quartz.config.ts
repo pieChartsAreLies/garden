@@ -17,31 +17,31 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Quicksand",
-        body: "Quicksand", 
+        header: "Roboto",
+        body: "Roboto", 
         code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#2d2d2d",        // Dark grey background
-          lightgray: "#3a3a3a",    // Slightly lighter grey
+          light: "#1a1a1a",        // Almost black background
+          lightgray: "#2a2a2a",    // Slightly lighter almost black
           gray: "#8892a6",         // Medium gray
           darkgray: "#e8eaed",     // Light gray for text
           dark: "#ffffff",         // White text
           secondary: "#00bfff",    // Aqua/light blue links
           tertiary: "#ff6900",     // Orange accents
-          highlight: "rgba(0, 191, 255, 0.15)",  // Aqua highlight
+          highlight: "rgba(0, 191, 255, 0.05)",  // Very translucent aqua highlight
           textHighlight: "rgba(255, 105, 0, 0.2)", // Orange text highlight
         },
         darkMode: {
-          light: "#2d2d2d",        // Dark grey background
-          lightgray: "#3a3a3a",    
+          light: "#1a1a1a",        // Almost black background
+          lightgray: "#2a2a2a",    
           gray: "#8892a6",         
           darkgray: "#e8eaed",     
           dark: "#ffffff",         
           secondary: "#00bfff",    // Aqua/light blue links
           tertiary: "#ff6900",     // Orange accents
-          highlight: "rgba(0, 191, 255, 0.15)",
+          highlight: "rgba(0, 191, 255, 0.05)",
           textHighlight: "rgba(255, 105, 0, 0.2)",
         },
       },
