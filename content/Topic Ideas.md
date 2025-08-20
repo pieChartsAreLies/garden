@@ -20,9 +20,14 @@
 * "Focus on doing one or two things extremely well, do them in one place very consistently with a small group of people over a long period of time." - Antithetical to how we operate. 
 * "Removing distractions gives you the space to decide wgat yoiu care about. " stranded on desert island, with unlimited resources, what would you be doing? 
 * Healthy relationship with failure - > Failure doesn't mean falling to the bottom, it's growth.
-	* Character is Rebounding when things don't
+	* Character is Rebounding when things don't go your way. 
+	* Successful people tollerate failure over a longer period of time. They ahve learned to act despite discomfort. You don't get rid of anxiety and self-doubt, you just learn to work through it. 
+	* If you never start, you don't ever hit that next level of competency and lose out on the ability to learn. 
+* Happiness isn't a lack of problems. It's having better problems. 
+	* Success is having better failures. 
+	* You don't get rid of the struggle, you just upgrade it. 
 ---
-* Putting yourself out there
+* Putting yourself out there (Original)
 	* Bone Apple Tea - swearing off social media. 
 	* Stepping into a leadership role
 	* Leading teams that you don't have exposure to the subject matter
@@ -30,3 +35,6 @@
 	* Humility that you don't know everything - the power of saying "I don't know"
 		* Interview focus... can you say it or will you lie and speak with confidence. 
 			* Value in faking it until you make it, but there's a line. 
+---
+Mark Manson ([video](https://www.youtube.com/watch?v=411yMnGP5Og))Why you feel so stuck in life. 
+* *
