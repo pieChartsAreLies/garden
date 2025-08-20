@@ -1,6 +1,17 @@
 ---
 title: Welcome to Quartz
+publish: "true"
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Michael Gerstl
+
+Professional insights on technology, business, and innovation.
+
+## Recent Articles
+
+- [[My First Note]]
+- [[Digital Transformation in Modern Business]]
+
+## About
+
+I write about the intersection of technology and business strategy, drawing from experience in enterprise software development and organizational leadership.
