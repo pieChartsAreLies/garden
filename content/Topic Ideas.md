@@ -37,4 +37,5 @@
 			* Value in faking it until you make it, but there's a line. 
 ---
 Mark Manson ([video](https://www.youtube.com/watch?v=411yMnGP5Og))Why you feel so stuck in life. 
-* *
+* Stage One: Copycat - Lots of people never leave it. We copy others, and at the end, we realize that we want to be our own person. Goal is to teach ourselves how to function in society. Adults help us to make decisions and take action for ourselves. Sometime we are punished for decisions. We get stuck in stage one mimicking others and trying to please everyone so we're not judged. Ideally, this ends at early adulthood. 
+* 
