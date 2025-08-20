@@ -1,2 +1,40 @@
 /* Custom styles for Quartz */
-/* Add your custom CSS here */
+/* Override mobile responsive behavior to maintain 3-column layout */
+
+/* Force desktop grid layout at all screen sizes */
+.page > #quartz-body {
+  grid-template-columns: 250px minmax(0, 1fr) 250px !important;
+  grid-template-rows: auto auto 1fr !important;
+  grid-template-areas: 
+    "grid-sidebar-left grid-header grid-sidebar-right"
+    "grid-sidebar-left grid-center grid-sidebar-right" 
+    "grid-sidebar-left grid-footer grid-sidebar-right" !important;
+}
+
+/* Keep sidebars visible and functional on narrow screens */
+.page > #quartz-body .sidebar.left {
+  display: flex !important;
+  flex-direction: column !important;
+  position: sticky !important;
+  height: 100vh !important;
+  padding: 2rem 1rem !important;
+  overflow-y: auto !important;
+}
+
+.page > #quartz-body .sidebar.right {
+  display: flex !important;
+  flex-direction: column !important;
+  position: sticky !important;
+  height: 100vh !important;
+  padding: 2rem 1rem !important;
+  overflow-y: auto !important;
+}
+
+/* Override mobile-only hiding */
+.desktop-only {
+  display: initial !important;
+}
+
+.mobile-only {
+  display: none !important;
+}
