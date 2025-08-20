@@ -1,4 +1,12 @@
-export default {
+import { QuartzConfig } from "./quartz/cfg"
+import * as Plugin from "./quartz/plugins"
+
+/**
+ * Quartz 4.0 Configuration
+ *
+ * See https://quartz.jzhao.xyz/configuration for more information.
+ */
+const config: QuartzConfig = {
   configuration: {
     pageTitle: "Michael Gerstl",
     enableSPA: true,
@@ -17,7 +25,7 @@ export default {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light", 
+          light: "github-light",
           dark: "github-dark",
         },
         keepBackground: false,
@@ -46,3 +54,5 @@ export default {
     ],
   },
 }
+
+export default config
