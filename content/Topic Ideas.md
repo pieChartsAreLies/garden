@@ -15,4 +15,7 @@
 		* Willing to have friction to stand up for your values. 
 		* Leads to going with the flow. 
 * "Most people aren't actually stuck because their life is too hard. They're actually stuck because the distraction feel safer than the solutions do."
-* 
+* "A lot of what appears to be productivity is just procastination in a business suit." 
+* "Learning more is just a smart person's way to procrastonate."
+* "Focus on doing one or two things extremely well, do them in one place very consistently with a small group of people over a long period of time." - Antithetical to how we operate. 
+* "Removing distractions gives you the space to decide wgat yoiu care about. " stranded on desert island, with unlimited resources, what would you be doing? 
