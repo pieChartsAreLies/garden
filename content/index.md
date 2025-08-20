@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Insights, Hot Takes & Random Thoughts
 publish: "true"
 ---
 
