@@ -14,4 +14,5 @@
 		* Willing to be disliked. 
 		* Willing to have friction to stand up for your values. 
 		* Leads to going with the flow. 
+* "Most people aren't actually stuck because their life is too hard. They're actually stuck because the distraction feel safer than the solutions do."
 * 
