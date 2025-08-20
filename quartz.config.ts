@@ -23,26 +23,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#ffffff",
-          lightgray: "#f8f9fa",
-          gray: "#6c757d",
-          darkgray: "#343a40",
-          dark: "#212529",
-          secondary: "#0d6efd",
-          tertiary: "#6f42c1",
-          highlight: "rgba(13, 110, 253, 0.1)",
-          textHighlight: "#fff3cd",
+          light: "#0f1419",        // Dark navy background
+          lightgray: "#1a1f29",    // Slightly lighter dark
+          gray: "#8892a6",         // Medium gray
+          darkgray: "#e8eaed",     // Light gray for text
+          dark: "#ffffff",         // White text
+          secondary: "#00a693",    // Teal links (Miami Dolphins aqua)
+          tertiary: "#ff6900",     // Orange accents (Miami Dolphins orange)
+          highlight: "rgba(0, 166, 147, 0.15)",  // Teal highlight
+          textHighlight: "rgba(255, 105, 0, 0.2)", // Orange text highlight
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#23262f",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7c3aed",
-          tertiary: "#a855f7",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b07aa1",
+          light: "#0f1419",        // Same dark theme
+          lightgray: "#1a1f29",    
+          gray: "#8892a6",         
+          darkgray: "#e8eaed",     
+          dark: "#ffffff",         
+          secondary: "#00a693",    // Teal links
+          tertiary: "#ff6900",     // Orange accents
+          highlight: "rgba(0, 166, 147, 0.15)",
+          textHighlight: "rgba(255, 105, 0, 0.2)",
         },
       },
     },
