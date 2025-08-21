@@ -7,7 +7,7 @@ tags:
 description: How organizations can successfully navigate digital transformation initiatives.
 date: 2025-08-19
 publish: "true"
-stage:
+stage: Seedling
 ---
 # Digital Transformation in Modern Business
 
