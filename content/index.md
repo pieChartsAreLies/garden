@@ -15,9 +15,14 @@ A father above all else, a loving husband, a technology and data enthusiast, a t
 
 *Professional What*: Professional insights on technology, business, and innovation.
 
-*Wholistic What*: A digital garden that serves as a place to put my thoughts on topics. A garden that can be uprooted, turned over, grown, adjusted and adapted to my views on the world, data, and technology as they shift and change. There is no AI here, not to help write, clarify ideas, or to pretty up my writing. This is raw and unfiltered, like it used to be before 2022, the launch of ChatGPT. I used to take great pride in my writing and ability to communicate with others and I worry for my fellow humans that we're going to lose a lot of personal voice in our communications. This garden gives me a place with hard lines in the sand about what is my voice and what's not and gives me a place to exercise that voice. 
+*Wholistic What*: A digital garden that serves as a place to put my thoughts on topics. A garden that can be uprooted, turned over, grown, adjusted and adapted to my views on the world, data, and technology as they shift and change. 
 
 ---
-Why: 
+Why: To crease a place to store a collection of my writings on various topics related to my professional, and sometimes personal, life. 
 
+*Wholistic Why*: I used to take great pride in my writing and ability to communicate with others. Then in 2022, ChatGPT's public release happened and the world changed with it. 
+
+There is no AI here, not to help write, clarify ideas, or to pretty up my writing. This is raw and unfiltered, like it used to be. 
+
+I worry that I am going to lose my personal writing voice that used to be everywhere in our communications. This garden gives me a place where I draw a hard line in the sand and kick the chatbots out. This garden gives me the space to exercise that inner voice. 
 
