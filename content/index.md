@@ -2,7 +2,6 @@
 title: Insights, Hot Takes & Random Thoughts
 publish: "true"
 ---
-
 # Michael Gerstl
 
 *Professional Who*: 
@@ -15,7 +14,7 @@ A father above all else, a loving husband, a technology and data enthusiast, a t
 
 *Professional What*: Professional insights on technology, business, and innovation.
 
-*Wholistic What*: A digital garden that serves as a place to put my thoughts on topics. A garden that can be uprooted, turned over, grown, adjusted and adapted to my views on the world, data, and technology as they shift and change. 
+*Wholistic What*: A [[digital garden]] that serves as a place to put my thoughts on topics. A garden that can be uprooted, turned over, grown, adjusted and adapted to my views on the world, data, and technology as they shift and change. 
 
 ---
 Why: To crease a place to store a collection of my writings on various topics related to my professional, and sometimes personal, life. 
