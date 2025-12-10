@@ -1,6 +1,6 @@
 ---
 title: Insights, Hot Takes & Random Thoughts
-publish: "true"
+publish: "false"
 ---
 # Michael Gerstl
 
