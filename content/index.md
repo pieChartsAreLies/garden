@@ -1,4 +1,4 @@
 ---
 title: Null Entry
-publish: "false"
+publish: "true"
 ---
